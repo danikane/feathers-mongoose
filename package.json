@@ -74,7 +74,7 @@
     "feathers-service-tests": "^0.10.0",
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^5.0.0",
-    "mongoose": "^5.2.5",
+    "mongoose": "5.3.12",
     "semistandard": "^13.0.0",
     "sinon-chai": "^3.0.0",
     "sinon": "^6.0.0"
